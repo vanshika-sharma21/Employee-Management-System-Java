@@ -32,13 +32,4 @@ The main objective of this project is to simplify employee data management by im
 
 ---
 
-## 🗄 Database Configuration
 
-1. Install MySQL.
-2. Create a database (e.g., `employee_management_system`).
-3. Update database credentials in the `Conn.java` file:
-
-```java
-String url = "jdbc:mysql://localhost:3306/employee_management_system";
-String username = "root";
-String password = "your_password";
